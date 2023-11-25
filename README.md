@@ -43,3 +43,14 @@ This is a web-based N-gram Generator built using Streamlit, NLTK, Matplotlib, an
 After installing the dependencies, run the Streamlit application by executing the following command:
 ```bash
 streamlit run app.py
+
+## Contributing
+Contributions are welcome! If you want to contribute to this project, feel free to submit a pull request or open an issue.
+
+## License
+This project is licensed under the MIT License.
+
+-----------------------------------------------------------------------------------------------
+
+Feel free to modify and expand the README file according to your specific project details, usage instructions, or any additional information you'd like to provide to potential users or contributors on GitHub.
+
